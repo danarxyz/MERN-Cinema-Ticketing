@@ -1,0 +1,22 @@
+/tmp
+/out-tsc
+
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.pnp
+.pnp.js
+.DS_Store
+
+.vscode/*
+
+.env
+
+# Ignore all files in uploads directories
+public/uploads/photos/*
+public/uploads/thumbnails/*
+
+# Don't ignore .gitkeep files
+!public/uploads/photos/.gitkeep
+!public/uploads/thumbnails/.gitkeep
