@@ -14,8 +14,6 @@ It allows users (via mobile browser) to view currently playing movies, select th
 * Admin Dashboard: Manage movies, theaters, tickets, transactions, etc.
 
 ---
-**(Optional Note):**
-
 💡 **Important:** This application is designed as **Mobile Web**. The UI/UX is optimized for mobile browsers. Desktop viewing may not be optimal.
 ---
 
